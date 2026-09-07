@@ -4,7 +4,7 @@ Solve: `python solve.py` (needs KLayout and `pip install z3-solver`).
 Writeup: https://gabbytab.github.io/blog/asic-puzzle-2026/
 
 AI disclosure: the solve was mine; the code in `extract.py` / `solve.py` and the post-solve
-analysis were done with the help of AI coding agents (Grok, and Claude in Cursor).
+analysis were done with Grok 4.6 on high.
 
 This repository provides the files for the Jane Street ASIC reverse-engineering puzzle! See the [blog post](https://blog.janestreet.com/can-you-reverse-engineer-an-asic/) for more details.
 
