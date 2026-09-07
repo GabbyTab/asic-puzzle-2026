@@ -1,5 +1,8 @@
 # ASIC Reverse-Engineering Puzzle
 
+Solve: `python solve.py` (needs KLayout and `pip install z3-solver`).
+Writeup: https://gabbytab.github.io/blog/asic-puzzle-2026/
+
 This repository provides the files for the Jane Street ASIC reverse-engineering puzzle! See the [blog post](https://blog.janestreet.com/can-you-reverse-engineer-an-asic/) for more details.
 
 ### Puzzle GDS
